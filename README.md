@@ -1,11 +1,13 @@
-[![MasterHead](https://i.pinimg.com/originals/38/55/9d/38559de45f1784e2a4310747c631b19b.gif)](https://github.com/freevs)
 <h1 align="center">Hi 👋, I'm Freeva Racheal</h1>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif">
-- 🔭 I’m currently learning **Machine Learning Algorithms**
 
-- 💬 Ask me about **related to Analytics, Python, Data Science & Machine learning**
 
-- 📫 How to reach me **rach9929@gmail.com**
+  
+-🌱 I’m currently learning **Machine Learning Algorithms, Deep Learning**
+
+-💬 Ask me about **Python, Analytics, Data Science & Machine Learning**
+
+-📫 How to reach me freevadsouza@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

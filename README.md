@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **related to Analytics, Python, Data Science & Machine learning**
 
-- 📫 How to reach me **freevadsouza@gmail.com**
+- 📫 How to reach me: **freevadsouza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

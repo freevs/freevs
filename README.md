@@ -4,7 +4,7 @@
 
 
   
--🌱 I’m currently learning **Machine Learning Algorithms, Deep Learning**
+-🌱 I’m currently learning **Machine Learning Algorithms**
 
 -💬 Ask me about **Python, Analytics, Data Science & Machine Learning**
 

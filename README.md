@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Freeva Racheal</h1>
 <p1 align="left">I am a passionate self taught Data Analyst/ Business Analyst from India. Love to learn new technologies and newer ways of problem solving.</p1>
-<img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/6052dba10558ec9e861578de/605609942900a56b7d9547ee_animation_500_kmhu8z1q.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=freevs&label=Profile%20views&color=0e75b6&style=flat" alt="freevs" /> </p>
+
 
 - 🔭 I’m currently learning **Machine Learning Algorithms**
 

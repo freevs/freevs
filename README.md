@@ -2,9 +2,6 @@
 <p1 align="left">I am a passionate self taught Data Analyst/ Data Scientist from India. Love to learn new technologies and newer ways of problem solving.</p1>
 
 
-- 🔭 I’m currently learning **Machine Learning Algorithms**
-
-- 💬 Ask me about anything related to **Analytics, Python, Data Science & Machine learning**
 
 - 📫 How to reach me: **freevadsouza@gmail.com**
 

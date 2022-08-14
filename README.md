@@ -3,6 +3,6 @@
 
 
 
-- 📫 How to reach me: **freevadsouza@gmail.com**
+ 📫 How to reach me: **freevadsouza@gmail.com**
 
 
